@@ -4,9 +4,10 @@ li {
 }
 
 .primary-footer {
+  margin-top: 20px;
   background-color: #B44080;
   padding: 0px;
-  position: absolute;
+ 
   bottom: 0;
   width: 80vh;
   
