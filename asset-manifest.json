@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fitbook/static/css/main.a11dcf1f.chunk.css",
+    "main.js": "/fitbook/static/js/main.a91db41d.chunk.js",
+    "main.js.map": "/fitbook/static/js/main.a91db41d.chunk.js.map",
+    "runtime-main.js": "/fitbook/static/js/runtime-main.0d7bcfab.js",
+    "runtime-main.js.map": "/fitbook/static/js/runtime-main.0d7bcfab.js.map",
+    "static/js/2.62b5c30b.chunk.js": "/fitbook/static/js/2.62b5c30b.chunk.js",
+    "static/js/2.62b5c30b.chunk.js.map": "/fitbook/static/js/2.62b5c30b.chunk.js.map",
+    "static/js/3.6a73770b.chunk.js": "/fitbook/static/js/3.6a73770b.chunk.js",
+    "static/js/3.6a73770b.chunk.js.map": "/fitbook/static/js/3.6a73770b.chunk.js.map",
+    "index.html": "/fitbook/index.html",
+    "static/css/main.a11dcf1f.chunk.css.map": "/fitbook/static/css/main.a11dcf1f.chunk.css.map",
+    "static/js/2.62b5c30b.chunk.js.LICENSE.txt": "/fitbook/static/js/2.62b5c30b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fitbook/static/media/logo.6ce24c58.svg",
+    "static/media/prof-pic.5c5a4b7b.png": "/fitbook/static/media/prof-pic.5c5a4b7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7bcfab.js",
+    "static/js/2.62b5c30b.chunk.js",
+    "static/css/main.a11dcf1f.chunk.css",
+    "static/js/main.a91db41d.chunk.js"
+  ]
+}

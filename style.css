@@ -1,0 +1,212 @@
+html {
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #f9e7f1 100%);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.mobile-window {
+  width: 530px;
+  position: relative;
+  border-radius: 0px;
+  height: 80vh;
+}
+  
+
+.upload {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+  background: #E35D00;
+  border-radius: 10px;
+  color: white;
+  font-family: 'Bahnschrift', sans-serif;
+  height: 50px;
+  width: 300px; 
+  font-size: 20px;
+}
+
+.friend-row img,
+.friend-row h4 {
+  display: inline-block;
+  font-size: 25pt;
+}
+
+.timer-header button,
+.timer-header h1
+ {
+  display: inline-block;
+  margin: 50px;
+}
+
+.timer-header button {
+  border: none;
+  border-radius: 10px;
+  width: 25%;
+  background: none;
+  color: gray;
+}
+
+.load-more {
+  opacity: 50%;
+}
+
+
+.friend-row img{
+  width: 5%;
+    height: auto;
+}
+
+
+body, button{
+  font-family: 'Bahnschrift', sans-serif;                                       
+}
+
+.border {
+  padding: 15px 10%;;
+  background-color: #FFDCEF;
+  border-radius: 10px;
+}
+
+.upload-form label,
+.upload-form input{
+  display: inline-block;
+  font-size: 30px;
+  margin: 10px;
+}
+
+.upload-form input{
+background-color: #EAC5D9;
+border: none;
+border-radius: 10px;
+}
+
+button {
+  display: block;
+  margin:0 auto;
+  width: 40%;
+  height: 60px;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+}
+
+.upload-form p {
+  font-size: 30px;
+}
+
+.timer {
+  display: inline-block;
+}
+
+.header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.centered {
+    /* centering the content */
+    margin: 0 auto;
+  
+}
+
+.container {
+  padding: 80px 80px;
+  width: 80vh;
+
+
+}
+
+ul {
+  margin: 0;
+}
+li *{
+  margin: 0px 20px;
+}
+
+.user-pic img {
+  border-radius: 50%;
+  width: 125px;
+  height: 132px;
+  display: block;
+  margin: 10px 10px;
+  border: 3px solid #E35D00;
+}
+
+.user-pic button {
+  height: 32px;
+  width: 104px;
+  left: 71px;
+  top: 175px;
+  background: #E35D00;
+  border-radius: 10px;
+  color: white;
+  font-family: 'Bahnschrift', sans-serif;  
+}
+
+
+
+.user-pic {
+  display: inline-block;
+  vertical-align:top;
+  
+}
+
+.user-info {
+  display: inline-block;
+  vertical-align:top;
+  margin-left: 20px;
+}
+
+.user-info h3 {
+  margin: 0px;
+}
+
+.col-1-3 {
+  width: 30%;
+  padding: 0 10px;
+}
+
+.col-2-3 {
+  width: 66.66%;
+
+}
+
+.col-1-3,
+.col-2-3 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+
+}
+
+
+
+
+.share-bar p{
+  display: inline-block;
+  margin: 10px 130px;
+  
+}
+
+.share-bar {
+  background: #EAC5D9;
+  border-radius: 10px;
+  width: 80vh;
+  margin-top: 20px;
+  margin-bottom: 10%;
+  
+}
+
