@@ -44,3 +44,12 @@ h4 {
   margin-top: 0px;
   
 }
+
+img {
+  width: 10%;
+}
+
+.share-bar img {
+  margin: 5px;
+  width: 4%;
+}

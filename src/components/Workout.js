@@ -1,5 +1,7 @@
 import React from 'react'
 import styles from './appStyles.workout.css'
+import Star from '../images/Star 1.png'
+
 
 
 
@@ -14,6 +16,10 @@ function Workout() {
       </div>
       <div className="col-1-3">
         <p>Created by: Olivia Amato</p>
+        <img src={Star}></img>
+        <img src={Star}></img>
+        <img src={Star}></img>
+
       </div>    
     </div>
 
